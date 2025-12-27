@@ -32,12 +32,12 @@ export default function TermsPage() {
             1. Agreement to Terms
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            These Terms of Service ("Terms") govern your access to and use of MineNepal Tools 
-            ("we", "us", or "our") website located at{' '}
+            These Terms of Service (&quot;Terms&quot;) govern your access to and use of MineNepal Tools 
+            (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) website located at{' '}
             <a href="https://tools.minenepal.xyz" className="text-green-600 hover:text-green-700 underline">
               https://tools.minenepal.xyz
             </a>{' '}
-            (the "Site") and all related services (collectively, the "Services").
+            (the &quot;Site&quot;) and all related services (collectively, the &quot;Services&quot;).
           </p>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these 
@@ -74,7 +74,7 @@ export default function TermsPage() {
             <li>Collect or harvest information from other users without consent</li>
             <li>Use the Services to harass, abuse, or harm others</li>
             <li>Impersonate any person or entity or misrepresent your affiliation</li>
-            <li>Violate Mojang's Terms of Service or End User License Agreement</li>
+            <li>Violate Mojang&apos;s Terms of Service or End User License Agreement</li>
           </ul>
         </section>
 
@@ -116,7 +116,7 @@ export default function TermsPage() {
             4.3 Third-Party Data
           </h3>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-            Our Services may display data obtained from third-party APIs (such as Mojang's API). This data is 
+            Our Services may display data obtained from third-party APIs (such as Mojang&apos;s API). This data is 
             property of its respective owners and is displayed in accordance with their terms of service.
           </p>
         </section>
@@ -131,7 +131,7 @@ export default function TermsPage() {
               IMPORTANT: PLEASE READ CAREFULLY
             </p>
             <p className="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">
-              THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS 
+              THE SERVICES ARE PROVIDED &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS 
               OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
               PURPOSE, AND NON-INFRINGEMENT.
             </p>
@@ -222,7 +222,7 @@ export default function TermsPage() {
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             We reserve the right to modify these Terms at any time. We will notify you of any changes by posting 
-            the new Terms on this page and updating the "Last Updated" date. Your continued use of the Services 
+            the new Terms on this page and updating the &quot;Last Updated&quot; date. Your continued use of the Services 
             after changes become effective constitutes your acceptance of the revised Terms.
           </p>
         </section>

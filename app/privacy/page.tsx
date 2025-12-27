@@ -29,12 +29,12 @@ export default function PrivacyPage() {
         {/* Introduction */}
         <section className="mb-8">
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            At MineNepal Tools ("we", "us", or "our"), we are committed to protecting your privacy. This Privacy Policy 
+            At MineNepal Tools (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;), we are committed to protecting your privacy. This Privacy Policy 
             explains how we collect, use, disclose, and safeguard your information when you visit our website{' '}
             <a href="https://tools.minenepal.xyz" className="text-green-600 hover:text-green-700 underline">
               https://tools.minenepal.xyz
             </a>
-            {' '}(the "Site").
+            {' '}(the &quot;Site&quot;).
           </p>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, 
@@ -209,7 +209,7 @@ export default function PrivacyPage() {
         {/* Children's Privacy */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-            8. Children's Privacy
+            8. Children&apos;s Privacy
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             Our Site is not directed to children under the age of 13. We do not knowingly collect personal information 
@@ -225,7 +225,7 @@ export default function PrivacyPage() {
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new 
-            Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy 
+            Privacy Policy on this page and updating the &quot;Last Updated&quot; date. You are advised to review this Privacy 
             Policy periodically for any changes.
           </p>
         </section>

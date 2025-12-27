@@ -29,11 +29,11 @@ export default function DisclaimerPage() {
         {/* Introduction */}
         <section className="mb-8">
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            The information provided by MineNepal Tools ("we", "us", or "our") on{' '}
+            The information provided by MineNepal Tools (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) on{' '}
             <a href="https://tools.minenepal.xyz" className="text-green-600 hover:text-green-700 underline">
               https://tools.minenepal.xyz
             </a>{' '}
-            (the "Site") is for general informational purposes only. All information on the Site is provided in 
+            (the &quot;Site&quot;) is for general informational purposes only. All information on the Site is provided in 
             good faith, however we make no representation or warranty of any kind, express or implied, regarding 
             the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
           </p>
@@ -56,7 +56,7 @@ export default function DisclaimerPage() {
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
             Minecraft® is a registered trademark of Mojang Studios. All Minecraft-related content, including but not 
             limited to game assets, textures, names, and terminology, are the property of Mojang Studios and are used 
-            in accordance with Mojang's Brand and Asset Guidelines.
+            in accordance with Mojang&apos;s Brand and Asset Guidelines.
           </p>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
             Any use of Minecraft-related content on this Site is for informational and utility purposes only and does 
@@ -94,7 +94,7 @@ export default function DisclaimerPage() {
             The data displayed through our tools is obtained from various sources, including:
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 ml-4 mb-4">
-            <li>Mojang's official APIs</li>
+            <li>Mojang&apos;s official APIs</li>
             <li>Third-party Minecraft server status APIs</li>
             <li>User-provided input data</li>
             <li>Publicly available Minecraft information</li>
@@ -159,7 +159,7 @@ export default function DisclaimerPage() {
             7. Third-Party APIs and Services
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            Many of our tools rely on third-party APIs and services, including but not limited to Mojang's official 
+            Many of our tools rely on third-party APIs and services, including but not limited to Mojang&apos;s official 
             APIs. We have no control over these third-party services and cannot guarantee their availability, 
             accuracy, or continued operation.
           </p>
@@ -191,7 +191,7 @@ export default function DisclaimerPage() {
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 ml-4">
             <li>Verifying the accuracy of information before taking action based on it</li>
-            <li>Complying with Mojang's Terms of Service and EULA</li>
+            <li>Complying with Mojang&apos;s Terms of Service and EULA</li>
             <li>Complying with the terms of service of any Minecraft servers you interact with</li>
             <li>Ensuring your use of our tools does not violate any laws or regulations</li>
             <li>Protecting your own data and privacy when using our services</li>
