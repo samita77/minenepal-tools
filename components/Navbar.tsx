@@ -15,7 +15,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3 hover:opacity-90 transition-opacity">
             <FontAwesomeIcon icon={faCube} className="h-8 w-8" />
-            <span className="text-xl font-bold">MineNepal Minecraft Tools</span>
+            <span className="text-xl font-bold">MineNepal Tools</span>
           </Link>
 
           {/* Desktop Navigation */}
